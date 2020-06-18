@@ -12,3 +12,8 @@
  2. 读取里面的document.xml，提取公式相关的Omath标签，用提供的jar转成mathml或者latex,再写到document.xml中
  3. 利用第三方例如openoffice转word成成html
  
+ ![avatar](./word.png)
+ 
+ ![avatar](./wordMathml.png)
+ 
+ 
