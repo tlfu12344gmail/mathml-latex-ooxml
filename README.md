@@ -16,4 +16,5 @@
  
  ![avatar](./wordMathml.png)
  
- qq:329064956
+ 联系方式(公众号)
+ ![qrcode.jpg](./qrcode.jpg)
